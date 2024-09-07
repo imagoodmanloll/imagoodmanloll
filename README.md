@@ -12,10 +12,8 @@
   </a>
 </p>
 
-👨‍💻 Lanuages I Use
-
 <br>
-<h2 align="center">Skills </h2>
+<h2 align="center">👨‍💻 Lanuages I Use</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,golang,js,vscode,c,cpp,cs,html,css" />
