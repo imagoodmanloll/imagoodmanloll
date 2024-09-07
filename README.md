@@ -17,7 +17,7 @@
 <h2 align="center">👨‍💻 Languages I Use</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,golang,js,vscode,c,cpp,cs,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,lua,cpp,cs" />
   </a>
 </p>
 <br>
