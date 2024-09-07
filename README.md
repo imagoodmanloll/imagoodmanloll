@@ -15,7 +15,7 @@
 👨‍💻 Lanuages I Use
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" class="icon-link">
-    <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+    <img alt="JavaScript" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" style="padding-right:10px;" />
   </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer" class="icon-link">
     <img alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
