@@ -17,7 +17,15 @@
 <h3 align="center">👨‍💻 Languages I Use</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,golang,js,vscode,c,cpp,cs,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,lua,js,cs,cpp" />
+  </a>
+</p>
+<br>
+
+<h3 align="center">💻 I'm currently learning</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go" />
   </a>
 </p>
 <br>
