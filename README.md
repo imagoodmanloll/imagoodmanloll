@@ -14,14 +14,11 @@
 
 👨‍💻 Lanuages I Use
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" class="icon-link">
-    <img alt="JavaScript" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" style="padding-right:20px;" />
+<br>
+<h2 align="center">Skills </h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,golang,js,vscode,c,cpp,cs,html,css" />
   </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer" class="icon-link">
-    <img alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer" class="icon-link">
-    <img alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" class="icon-link">
-    <img alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
-  </a>
+</p>
+<br>
