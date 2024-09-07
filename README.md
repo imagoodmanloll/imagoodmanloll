@@ -13,10 +13,6 @@
 </p>
 
 👨‍💻 Lanuages I Use
-
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" class="icon-link">
-    <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" class="icon-link">
     <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
   </a>
