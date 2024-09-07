@@ -14,7 +14,7 @@
 
 <br>
 
-<h3 align="center">👨‍💻 Languages I Use</h3>
+<h4 align="center">👨‍💻 Languages I Use</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,lua,js,cpp,cs" />
