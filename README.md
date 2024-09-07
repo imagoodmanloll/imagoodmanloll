@@ -14,10 +14,10 @@
 
 <br>
 
-<h4 align="center">👨‍💻 Languages I Use</h4>
+<h3 align="center">👨‍💻 Languages I Use</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,lua,js,cpp,cs" />
+    <img src="https://skillicons.dev/icons?i=python,golang,js,vscode,c,cpp,cs,html,css" />
   </a>
 </p>
 <br>
