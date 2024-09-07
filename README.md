@@ -2,5 +2,5 @@
   Hi 👋, I'm <span style="color:#00bcd4;">goodman</span>
 </h1>
 <h3 align="center" style="color:#cfd8dc;font-family:Segoe UI,Roboto,sans-serif;">
-  Developer from Poland
+  I like reverse engineering and developing cheats on Roblox
 </h3>
